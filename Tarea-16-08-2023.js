@@ -1,4 +1,5 @@
-
+/**################################*/
+/*RETO PROGRAMACIÓN - PASSWORD CREATION*/
 
 function newPassword(a, b) {
 let result = ''; // La cadena combinada
@@ -26,3 +27,5 @@ while (j < b.length) {
 }
 
 }
+
+/*Desarrollado por: Yael Mauricio Cano Palacio*/
