@@ -2,7 +2,6 @@
 //Tarea en clase 
 //---------------------------
 
-//Desarrollado por: Yael Mauricio Cano Palacio
 let array = [2,3,4,5,7,8];
 
 function num(array, objectivo) {
@@ -20,3 +19,4 @@ function num(array, objectivo) {
     return elements;
 }
 console.log(num(array, 10));
+//Desarrollado por: Yael Mauricio Cano Palacio
